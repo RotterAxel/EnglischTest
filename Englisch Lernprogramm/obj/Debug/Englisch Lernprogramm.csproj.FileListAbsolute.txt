@@ -1,0 +1,6 @@
+C:\Users\rotte00a\Desktop\Englisch Lernprogramm\Englisch Lernprogramm\bin\Debug\Englisch Lernprogramm.exe.config
+C:\Users\rotte00a\Desktop\Englisch Lernprogramm\Englisch Lernprogramm\bin\Debug\Englisch Lernprogramm.exe
+C:\Users\rotte00a\Desktop\Englisch Lernprogramm\Englisch Lernprogramm\bin\Debug\Englisch Lernprogramm.pdb
+C:\Users\rotte00a\Desktop\Englisch Lernprogramm\Englisch Lernprogramm\obj\Debug\Englisch Lernprogramm.csprojResolveAssemblyReference.cache
+C:\Users\rotte00a\Desktop\Englisch Lernprogramm\Englisch Lernprogramm\obj\Debug\Englisch Lernprogramm.exe
+C:\Users\rotte00a\Desktop\Englisch Lernprogramm\Englisch Lernprogramm\obj\Debug\Englisch Lernprogramm.pdb

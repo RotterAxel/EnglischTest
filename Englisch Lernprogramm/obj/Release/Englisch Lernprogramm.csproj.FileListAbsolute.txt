@@ -1,0 +1,5 @@
+C:\Users\rotte00a\Desktop\Englisch Lernprogramm\Englisch Lernprogramm\bin\Release\Englisch Lernprogramm.exe.config
+C:\Users\rotte00a\Desktop\Englisch Lernprogramm\Englisch Lernprogramm\bin\Release\Englisch Lernprogramm.exe
+C:\Users\rotte00a\Desktop\Englisch Lernprogramm\Englisch Lernprogramm\bin\Release\Englisch Lernprogramm.pdb
+C:\Users\rotte00a\Desktop\Englisch Lernprogramm\Englisch Lernprogramm\obj\Release\Englisch Lernprogramm.exe
+C:\Users\rotte00a\Desktop\Englisch Lernprogramm\Englisch Lernprogramm\obj\Release\Englisch Lernprogramm.pdb
