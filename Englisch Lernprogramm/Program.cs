@@ -1,10 +1,13 @@
-﻿using System;
+﻿using Englisch_Lernprogramm;
+using System;
 using System.Linq;
 
 namespace Englisch_Lernprogramm
 {
     class Program
     {
+        private static readonly Random rand = new Random();
+
         static void Main(string[] args)
         {
             string[] englishExpression = new string[] {"reliability",
@@ -74,14 +77,14 @@ namespace Englisch_Lernprogramm
             Console.WriteLine("Schreiben sie die von dem erscheinendem Wort zugehörige Vokabel.");
             Console.WriteLine("========================================================================");
             bool exit = false;
+            int temp;
+            string guess;
 
-            while(!exit)
+            while (!exit)
             {
-                Random rand = new Random();
-                int temp = rand.Next(1, 2);
-                string guess;
+                temp = rand.Next(1, 3);
 
-                if(temp == 1)
+                if (temp == 1)
                 {
                     temp = rand.Next(0, 29);
                     Console.WriteLine(germanExpression[temp]);
@@ -123,5 +126,7 @@ namespace Englisch_Lernprogramm
 
             }
         }
+
+       
     }
 }
