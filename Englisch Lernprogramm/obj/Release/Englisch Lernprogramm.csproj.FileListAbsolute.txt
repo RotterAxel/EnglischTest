@@ -3,3 +3,8 @@ C:\Users\rotte00a\Desktop\Englisch Lernprogramm\Englisch Lernprogramm\bin\Releas
 C:\Users\rotte00a\Desktop\Englisch Lernprogramm\Englisch Lernprogramm\bin\Release\Englisch Lernprogramm.pdb
 C:\Users\rotte00a\Desktop\Englisch Lernprogramm\Englisch Lernprogramm\obj\Release\Englisch Lernprogramm.exe
 C:\Users\rotte00a\Desktop\Englisch Lernprogramm\Englisch Lernprogramm\obj\Release\Englisch Lernprogramm.pdb
+C:\Users\Programming\Source\Repos\EnglischTest\Englisch Lernprogramm\bin\Release\Englisch Lernprogramm.exe.config
+C:\Users\Programming\Source\Repos\EnglischTest\Englisch Lernprogramm\bin\Release\Englisch Lernprogramm.exe
+C:\Users\Programming\Source\Repos\EnglischTest\Englisch Lernprogramm\bin\Release\Englisch Lernprogramm.pdb
+C:\Users\Programming\Source\Repos\EnglischTest\Englisch Lernprogramm\obj\Release\Englisch Lernprogramm.exe
+C:\Users\Programming\Source\Repos\EnglischTest\Englisch Lernprogramm\obj\Release\Englisch Lernprogramm.pdb

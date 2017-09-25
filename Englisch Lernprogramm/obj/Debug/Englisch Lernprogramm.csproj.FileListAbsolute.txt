@@ -10,3 +10,9 @@ D:\Programme\Empty Folder\Englisch Lernprogramm\obj\Debug\Englisch Lernprogramm.
 D:\Programme\Empty Folder\Englisch Lernprogramm\bin\Debug\Englisch Lernprogramm.exe
 D:\Programme\Empty Folder\Englisch Lernprogramm\bin\Debug\Englisch Lernprogramm.pdb
 D:\Programme\Empty Folder\Englisch Lernprogramm\obj\Debug\Englisch Lernprogramm.csprojResolveAssemblyReference.cache
+C:\Users\Programming\Source\Repos\EnglischTest\Englisch Lernprogramm\bin\Debug\Englisch Lernprogramm.exe.config
+C:\Users\Programming\Source\Repos\EnglischTest\Englisch Lernprogramm\bin\Debug\Englisch Lernprogramm.exe
+C:\Users\Programming\Source\Repos\EnglischTest\Englisch Lernprogramm\bin\Debug\Englisch Lernprogramm.pdb
+C:\Users\Programming\Source\Repos\EnglischTest\Englisch Lernprogramm\obj\Debug\Englisch Lernprogramm.csprojResolveAssemblyReference.cache
+C:\Users\Programming\Source\Repos\EnglischTest\Englisch Lernprogramm\obj\Debug\Englisch Lernprogramm.exe
+C:\Users\Programming\Source\Repos\EnglischTest\Englisch Lernprogramm\obj\Debug\Englisch Lernprogramm.pdb
